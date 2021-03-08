@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_240p/index.m3u8
+

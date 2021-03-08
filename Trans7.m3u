@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173722~acl=/hls-p/ingest_734_*/*~hmac=ce461a70d9fa925dc65a2316aef29f183c92ae099044903f6b0773bb6e620d55/hls-p/ingest_734_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173722~acl=/hls-p/ingest_734_*/*~hmac=ce461a70d9fa925dc65a2316aef29f183c92ae099044903f6b0773bb6e620d55/hls-p/ingest_734_240p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173722~acl=/hls-b/ingest_734_*/*~hmac=9002c10e2d799073a791807addaf2d1b3e23234cb1427d226776d35734b3a454/hls-b/ingest_734_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173722~acl=/hls-b/ingest_734_*/*~hmac=9002c10e2d799073a791807addaf2d1b3e23234cb1427d226776d35734b3a454/hls-b/ingest_734_240p/index.m3u8
+

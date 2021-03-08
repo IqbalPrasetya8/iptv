@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173720~acl=/hls-p/ingest_204_*/*~hmac=bada596f317442f39776ed73da2af3ec465b4cbfe25def156815a0b065a0558b/hls-p/ingest_204_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173720~acl=/hls-p/ingest_204_*/*~hmac=bada596f317442f39776ed73da2af3ec465b4cbfe25def156815a0b065a0558b/hls-p/ingest_204_240p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173720~acl=/hls-b/ingest_204_*/*~hmac=5c142731376af628456a4286cd62cc5c5893e9a401176b1cbcc594d2b11a73cf/hls-b/ingest_204_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173720~acl=/hls-b/ingest_204_*/*~hmac=5c142731376af628456a4286cd62cc5c5893e9a401176b1cbcc594d2b11a73cf/hls-b/ingest_204_240p/index.m3u8
+

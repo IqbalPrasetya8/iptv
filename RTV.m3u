@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173588~acl=/hls-p/ingest_geo_1561_*/*~hmac=d7ac0239c94b60211b7f71592b0edf556a34cc9e3d50eaef2510627115ea3eed/hls-p/ingest_geo_1561_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173588~acl=/hls-p/ingest_geo_1561_*/*~hmac=d7ac0239c94b60211b7f71592b0edf556a34cc9e3d50eaef2510627115ea3eed/hls-p/ingest_geo_1561_240p/index.m3u8
+

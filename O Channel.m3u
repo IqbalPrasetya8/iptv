@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173720~acl=/hls-p/ingest_206_*/*~hmac=c48e031ceb92e105d9107ab5b27bbd228e4889495be7ceb472cb56f390391ead/hls-p/ingest_206_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://etslive-2-vidio-com.akamaized.net/exp=1615173720~acl=/hls-p/ingest_206_*/*~hmac=c48e031ceb92e105d9107ab5b27bbd228e4889495be7ceb472cb56f390391ead/hls-p/ingest_206_240p/index.m3u8
+
